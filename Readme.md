@@ -30,3 +30,6 @@ The main goal of Inf3 is to read and process live audio data, use a machine lear
 1. Follow the Step1 in Main.ipynb to Establish HDFS Cluster and Spark configuration.
 2. Run each notebook in order to set up the system, handle the data, and make live predictions.
 3. Watch the processing with Spark UI and use Matplotlib to see the results.
+
+---
+Author: Aalto Squad
